@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="msxq348">
+      <fileDesc xml:id="fjdetr1">
+         <titleStmt xml:id="tu7sqal">
+            <title />
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="p10cf5vj" />
+      </fileDesc>
+      <encodingDesc xml:id="e5kkbe9">
+         <appInfo xml:id="a1nok4tm">
+            <application xml:id="a3wfzez" isodate="2026-10-29T20:26:39" version="6.3.0-425dd7b">
+               <name xml:id="n145d9pr">Verovio</name>
+               <p xml:id="p135csvv">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="zid3ofc">
+            <score xml:id="a17jf4p4">
+               <scoreDef xml:id="belglq2">
+                  <staffGrp xml:id="d2nxt3s">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="e1jz0asf">MusicXML Part</label>
+                        <clef xml:id="o3w32kn" shape="G" line="2" />
+                        <keySig xml:id="p5g1ux1" mode="major" sig="0" />
+                        <meterSig xml:id="q7ioal" count="4" sym="common" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="c8ppyc2">
+                  <expansion plist="#i14mwb3e" xml:id="jmy278b" />
+                  <section xml:id="i14mwb3e">
+                     <measure xml:id="r1q83urd" n="1">
+                        <staff xml:id="a1a0tucf" n="1">
+                           <layer xml:id="b1gnqr46" n="1">
+                              <note xml:id="c1ejf54d" dur.ppq="0" dur="16" oct="5" pname="d" grace="acc" />
+                              <note xml:id="d1unytok" dur.ppq="4" dur="4" oct="5" pname="c" />
+                              <beam xml:id="erji0jo">
+                                 <note xml:id="f1r5zz9f" dur.ppq="0" dur="16" oct="5" pname="e" grace="acc" />
+                                 <note xml:id="g1wi41yf" dur.ppq="0" dur="16" oct="5" pname="d" grace="acc" />
+                              </beam>
+                              <note xml:id="h193vo0e" dur.ppq="4" dur="4" oct="5" pname="c" />
+                              <note xml:id="i1jmcwz4" dur.ppq="0" dur="16" oct="5" pname="d" grace="acc" />
+                              <note xml:id="k1w2kem4" dur.ppq="4" dur="4" oct="5" pname="c" />
+                              <note xml:id="l1fvmruq" dur.ppq="0" dur="8" oct="5" pname="d" grace="acc" />
+                              <note xml:id="m1r2c0w6" dur.ppq="4" dur="4" oct="5" pname="c" />
+                           </layer>
+                        </staff>
+                        <tie xml:id="jvcgkt" startid="#i1jmcwz4" />
+                     </measure>
+                     <measure xml:id="n1ppctp8" n="2">
+                        <staff xml:id="wat1ez0" n="1">
+                           <layer xml:id="x5o2x2w" n="1">
+                              <note xml:id="y3hrz4j" dur.ppq="0" dur="16" oct="5" pname="d" grace="unacc" stem.mod="1slash" />
+                              <note xml:id="z1qdxkno" dur.ppq="4" dur="4" oct="5" pname="c" />
+                              <beam xml:id="a7vlplr">
+                                 <note xml:id="bp6hlkd" dur.ppq="0" dur="16" oct="5" pname="e" grace="acc" />
+                                 <note xml:id="cysckre" dur.ppq="0" dur="16" oct="5" pname="d" grace="acc" />
+                              </beam>
+                              <note xml:id="d131jzoy" dur.ppq="8" dur="2" oct="5" pname="c" />
+                              <note xml:id="e6vz8lk" dur.ppq="0" dur="16" oct="5" pname="d" grace="unacc" stem.mod="1slash" />
+                              <beam xml:id="fbyflrm">
+                                 <note xml:id="ggy09ws" dur.ppq="2" dur="8" oct="5" pname="c" />
+                                 <note xml:id="h1cihb5f" dur.ppq="0" dur="16" oct="5" pname="d" grace="unacc" stem.mod="1slash" />
+                                 <note xml:id="i1skoczq" dur.ppq="2" dur="8" oct="5" pname="c" />
+                              </beam>
+                              <note xml:id="j69yu17" dur.ppq="0" dur="16" oct="5" pname="e" grace="acc" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="kgoy45e" right="end" n="3">
+                        <staff xml:id="t1r4guuq" n="1">
+                           <layer xml:id="u85a455" n="1">
+                              <note xml:id="vgi2z3i" dur.ppq="0" dur="16" oct="5" pname="e" grace="acc" />
+                              <chord xml:id="x17z1qbm" dur.ppq="4" dur="4">
+                                 <note xml:id="w13ssd7f" oct="4" pname="f" />
+                                 <note xml:id="y1n89y95" oct="5" pname="c" />
+                              </chord>
+                              <note xml:id="z1ggy8od" dur.ppq="0" dur="4" oct="5" pname="d" grace="acc">
+                                 <accid xml:id="a15qx00v" accid="s" />
+                              </note>
+                              <note xml:id="bfod6k" dur.ppq="4" dur="4" oct="5" pname="c" />
+                              <note xml:id="c1tbkrdi" dur.ppq="0" dur="4" oct="5" pname="d" grace="acc">
+                                 <accid xml:id="drhmyap" accid="f" />
+                              </note>
+                              <note xml:id="e1gz0jq2" dur.ppq="0" dur="4" oct="4" pname="a" grace="acc">
+                                 <accid xml:id="fbdxli1" accid="f" />
+                              </note>
+                              <note xml:id="g16hlgam" dur.ppq="4" dur="4" oct="5" pname="c" />
+                              <note xml:id="h6eonah" dur.ppq="4" dur="4" oct="5" pname="c" />
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

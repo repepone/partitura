@@ -1,0 +1,54 @@
+{
+ "metodo": "posicion",
+ "mei_viejo": {
+  "ruta": "/tmp/claude-0/-home-user-partitura/fd0997e1-0d77-5b1f-a72f-29a011ac11bc/scratchpad/trabajo/lilypond_24a_adornos/v610_sin_ids.mei",
+  "compases": 3,
+  "notas": 28
+ },
+ "mei_nuevo": {
+  "ruta": "/tmp/claude-0/-home-user-partitura/fd0997e1-0d77-5b1f-a72f-29a011ac11bc/scratchpad/trabajo/lilypond_24a_adornos/v630_sin_ids.mei",
+  "compases": 3,
+  "notas": 28
+ },
+ "compases": {
+  "compases_viejo": 3,
+  "compases_nuevo": 3,
+  "emparejados": 3,
+  "con_contenido_distinto": 0,
+  "solo_en_viejo": [],
+  "solo_en_nuevo": []
+ },
+ "resumen": {
+  "ids_en_mapa": 28,
+  "emparejadas": 28,
+  "por_pasada": {
+   "exacta": 28
+  },
+  "huerfanas": 0,
+  "ambiguas": 0,
+  "ids_del_mapa_que_no_son_notas_del_mei_viejo": 0,
+  "altura_cambiada_emparejadas_por_posicion": 0,
+  "revisar": 0,
+  "notas_nuevas_sin_tiempo": 0,
+  "ligaduras": {
+   "notas_ligadas_en_viejo": 1,
+   "siguen_ligadas_en_nuevo": 1,
+   "mismo_papel_inicio_medio_final": 1,
+   "ligaduras_viejas": 0,
+   "ligaduras_conservadas_completas": 0
+  },
+  "notas_mei_viejo": 28,
+  "notas_mei_nuevo": 28,
+  "compases_viejo": 3,
+  "compases_nuevo": 3,
+  "ids_de_nota_comunes_entre_versiones": 0
+ },
+ "aviso_altura": "Las notas de 'altura_cambiada' se emparejaron por su posición en el compás, no por su altura. Es lo esperado cuando la versión vieja de Verovio ignoraba <alter>.",
+ "fuente_alturas": "aproximación propia (reatar_ids._calcular_alturas)",
+ "altura_cambiada": [],
+ "revisar": [],
+ "huerfanas": [],
+ "ambiguas": [],
+ "ids_del_mapa_que_no_son_notas_del_mei_viejo": [],
+ "notas_nuevas_sin_tiempo": []
+}

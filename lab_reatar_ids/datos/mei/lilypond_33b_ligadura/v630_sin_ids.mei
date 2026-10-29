@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m2i5r9v">
+      <fileDesc xml:id="fdcuzin">
+         <titleStmt xml:id="t1pm7wk1">
+            <title />
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="p1i1jrga" />
+      </fileDesc>
+      <encodingDesc xml:id="e1ildga9">
+         <appInfo xml:id="ah45tcd">
+            <application xml:id="alzs4n" isodate="2026-10-29T20:26:40" version="6.3.0-425dd7b">
+               <name xml:id="nyi4ofs">Verovio</name>
+               <p xml:id="p1id39vy">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="vvfhuoq">
+            <score xml:id="w144kop0">
+               <scoreDef xml:id="xqn6ruv">
+                  <staffGrp xml:id="z2n8863">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1">
+                        <clef xml:id="i1hczb02" shape="G" line="2" />
+                        <keySig xml:id="j1l18rcm" sig="0" />
+                        <meterSig xml:id="k31en29" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="yib4u82">
+                  <expansion plist="#k1kw2z0v" xml:id="l10s49gp" />
+                  <section xml:id="k1kw2z0v">
+                     <measure xml:id="lu2gfh" n="1">
+                        <staff xml:id="uuukdmx" n="1">
+                           <layer xml:id="vn2wanq" n="1">
+                              <note xml:id="w137l6ta" dur.ppq="4" dur="1" oct="4" pname="f" />
+                           </layer>
+                        </staff>
+                        <tie xml:id="x1797ac2" startid="#w137l6ta" endid="#j4uavwx" />
+                     </measure>
+                     <measure xml:id="y7eaoig" n="2">
+                        <staff xml:id="h7jg3m3" n="1">
+                           <layer xml:id="i1mkaaoa" n="1">
+                              <note xml:id="j4uavwx" dur.ppq="4" dur="1" oct="4" pname="f" />
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

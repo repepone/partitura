@@ -1,0 +1,495 @@
+{
+ "metodo": "posicion",
+ "mei_viejo": {
+  "ruta": "/tmp/claude-0/-home-user-partitura/fd0997e1-0d77-5b1f-a72f-29a011ac11bc/scratchpad/trabajo/lilypond_01b_intervalos/v610_sin_ids.mei",
+  "compases": 21,
+  "notas": 83
+ },
+ "mei_nuevo": {
+  "ruta": "/tmp/claude-0/-home-user-partitura/fd0997e1-0d77-5b1f-a72f-29a011ac11bc/scratchpad/trabajo/lilypond_01b_intervalos/v630_sin_ids.mei",
+  "compases": 21,
+  "notas": 83
+ },
+ "compases": {
+  "compases_viejo": 21,
+  "compases_nuevo": 21,
+  "emparejados": 21,
+  "con_contenido_distinto": 0,
+  "solo_en_viejo": [],
+  "solo_en_nuevo": []
+ },
+ "resumen": {
+  "ids_en_mapa": 83,
+  "emparejadas": 83,
+  "por_pasada": {
+   "exacta": 83
+  },
+  "huerfanas": 0,
+  "ambiguas": 0,
+  "ids_del_mapa_que_no_son_notas_del_mei_viejo": 0,
+  "altura_cambiada_emparejadas_por_posicion": 55,
+  "revisar": 0,
+  "notas_nuevas_sin_tiempo": 0,
+  "ligaduras": {
+   "notas_ligadas_en_viejo": 0,
+   "siguen_ligadas_en_nuevo": 0,
+   "mismo_papel_inicio_medio_final": 0,
+   "ligaduras_viejas": 0,
+   "ligaduras_conservadas_completas": 0
+  },
+  "notas_mei_viejo": 83,
+  "notas_mei_nuevo": 83,
+  "compases_viejo": 21,
+  "compases_nuevo": 21,
+  "ids_de_nota_comunes_entre_versiones": 0
+ },
+ "aviso_altura": "Las notas de 'altura_cambiada' se emparejaron por su posición en el compás, no por su altura. Es lo esperado cuando la versión vieja de Verovio ignoraba <alter>.",
+ "fuente_alturas": "aproximación propia (reatar_ids._calcular_alturas)",
+ "altura_cambiada": [
+  {
+   "id_viejo": "ka5k4c2",
+   "id_nuevo": "zp372jm",
+   "posicion": "compás 1 (orden 0), pentagrama 1, capa 1, inicio 1/2, nota, c5",
+   "midi_viejo": 72,
+   "midi_nuevo": 73,
+   "nota": "emparejada por posición, no por altura: la altura cambió de c5 a c#5"
+  },
+  {
+   "id_viejo": "mom14fm",
+   "id_nuevo": "b68l145",
+   "posicion": "compás 1 (orden 0), pentagrama 1, capa 1, inicio 3/4, nota, c5",
+   "midi_viejo": 72,
+   "midi_nuevo": 71,
+   "nota": "emparejada por posición, no por altura: la altura cambió de c5 a cb5"
+  },
+  {
+   "id_viejo": "z1xlubvl",
+   "id_nuevo": "o1873k4s",
+   "posicion": "compás 2 (orden 1), pentagrama 1, capa 1, inicio 0, nota, d5",
+   "midi_viejo": 74,
+   "midi_nuevo": 73,
+   "nota": "emparejada por posición, no por altura: la altura cambió de d5 a db5"
+  },
+  {
+   "id_viejo": "b1s8p3ww",
+   "id_nuevo": "qspozjx",
+   "posicion": "compás 2 (orden 1), pentagrama 1, capa 1, inicio 1/4, nota, b4",
+   "midi_viejo": 71,
+   "midi_nuevo": 72,
+   "nota": "emparejada por posición, no por altura: la altura cambió de b4 a b#4"
+  },
+  {
+   "id_viejo": "s12fk1ku",
+   "id_nuevo": "fqw9gy7",
+   "posicion": "compás 3 (orden 2), pentagrama 1, capa 1, inicio 0, nota, d5",
+   "midi_viejo": 74,
+   "midi_nuevo": 75,
+   "nota": "emparejada por posición, no por altura: la altura cambió de d5 a d#5"
+  },
+  {
+   "id_viejo": "u1szofuf",
+   "id_nuevo": "hbjoxcw",
+   "posicion": "compás 3 (orden 2), pentagrama 1, capa 1, inicio 1/4, nota, b4",
+   "midi_viejo": 71,
+   "midi_nuevo": 70,
+   "nota": "emparejada por posición, no por altura: la altura cambió de b4 a bb4"
+  },
+  {
+   "id_viejo": "w10oy2g2",
+   "id_nuevo": "j1170hbz",
+   "posicion": "compás 3 (orden 2), pentagrama 1, capa 1, inicio 1/2, nota, e5",
+   "midi_viejo": 76,
+   "midi_nuevo": 75,
+   "nota": "emparejada por posición, no por altura: la altura cambió de e5 a eb5"
+  },
+  {
+   "id_viejo": "ydvk1gg",
+   "id_nuevo": "lxpeycq",
+   "posicion": "compás 3 (orden 2), pentagrama 1, capa 1, inicio 3/4, nota, a4",
+   "midi_viejo": 69,
+   "midi_nuevo": 70,
+   "nota": "emparejada por posición, no por altura: la altura cambió de a4 a a#4"
+  },
+  {
+   "id_viejo": "pwz4ywz",
+   "id_nuevo": "aq0hhlb",
+   "posicion": "compás 4 (orden 3), pentagrama 1, capa 1, inicio 1/2, nota, e5",
+   "midi_viejo": 76,
+   "midi_nuevo": 77,
+   "nota": "emparejada por posición, no por altura: la altura cambió de e5 a e#5"
+  },
+  {
+   "id_viejo": "r6qb95t",
+   "id_nuevo": "c14661ty",
+   "posicion": "compás 4 (orden 3), pentagrama 1, capa 1, inicio 3/4, nota, a4",
+   "midi_viejo": 69,
+   "midi_nuevo": 68,
+   "nota": "emparejada por posición, no por altura: la altura cambió de a4 a ab4"
+  },
+  {
+   "id_viejo": "eljkskq",
+   "id_nuevo": "ptlslst",
+   "posicion": "compás 5 (orden 4), pentagrama 1, capa 1, inicio 0, nota, f5",
+   "midi_viejo": 77,
+   "midi_nuevo": 76,
+   "nota": "emparejada por posición, no por altura: la altura cambió de f5 a fb5"
+  },
+  {
+   "id_viejo": "gzk7d05",
+   "id_nuevo": "r1o5m1z6",
+   "posicion": "compás 5 (orden 4), pentagrama 1, capa 1, inicio 1/4, nota, g4",
+   "midi_viejo": 67,
+   "midi_nuevo": 68,
+   "nota": "emparejada por posición, no por altura: la altura cambió de g4 a g#4"
+  },
+  {
+   "id_viejo": "x1b1vpm",
+   "id_nuevo": "g38vx6x",
+   "posicion": "compás 6 (orden 5), pentagrama 1, capa 1, inicio 0, nota, f5",
+   "midi_viejo": 77,
+   "midi_nuevo": 78,
+   "nota": "emparejada por posición, no por altura: la altura cambió de f5 a f#5"
+  },
+  {
+   "id_viejo": "z151bbsi",
+   "id_nuevo": "i4b21s0",
+   "posicion": "compás 6 (orden 5), pentagrama 1, capa 1, inicio 1/4, nota, g4",
+   "midi_viejo": 67,
+   "midi_nuevo": 66,
+   "nota": "emparejada por posición, no por altura: la altura cambió de g4 a gb4"
+  },
+  {
+   "id_viejo": "b155r5jy",
+   "id_nuevo": "kmtarqg",
+   "posicion": "compás 6 (orden 5), pentagrama 1, capa 1, inicio 1/2, nota, g5",
+   "midi_viejo": 79,
+   "midi_nuevo": 78,
+   "nota": "emparejada por posición, no por altura: la altura cambió de g5 a gb5"
+  },
+  {
+   "id_viejo": "dvxnugl",
+   "id_nuevo": "m1tqfscm",
+   "posicion": "compás 6 (orden 5), pentagrama 1, capa 1, inicio 3/4, nota, f4",
+   "midi_viejo": 65,
+   "midi_nuevo": 66,
+   "nota": "emparejada por posición, no por altura: la altura cambió de f4 a f#4"
+  },
+  {
+   "id_viejo": "u16x83e4",
+   "id_nuevo": "btqgtqs",
+   "posicion": "compás 7 (orden 6), pentagrama 1, capa 1, inicio 1/2, nota, g5",
+   "midi_viejo": 79,
+   "midi_nuevo": 80,
+   "nota": "emparejada por posición, no por altura: la altura cambió de g5 a g#5"
+  },
+  {
+   "id_viejo": "w1i4clsf",
+   "id_nuevo": "d125xvav",
+   "posicion": "compás 7 (orden 6), pentagrama 1, capa 1, inicio 3/4, nota, f4",
+   "midi_viejo": 65,
+   "midi_nuevo": 64,
+   "nota": "emparejada por posición, no por altura: la altura cambió de f4 a fb4"
+  },
+  {
+   "id_viejo": "j15c49mo",
+   "id_nuevo": "qhpz7ze",
+   "posicion": "compás 8 (orden 7), pentagrama 1, capa 1, inicio 0, nota, a5",
+   "midi_viejo": 81,
+   "midi_nuevo": 80,
+   "nota": "emparejada por posición, no por altura: la altura cambió de a5 a ab5"
+  },
+  {
+   "id_viejo": "l1s0c8w",
+   "id_nuevo": "s10bm5n7",
+   "posicion": "compás 8 (orden 7), pentagrama 1, capa 1, inicio 1/4, nota, e4",
+   "midi_viejo": 64,
+   "midi_nuevo": 65,
+   "nota": "emparejada por posición, no por altura: la altura cambió de e4 a e#4"
+  },
+  {
+   "id_viejo": "ci47lv2",
+   "id_nuevo": "h4qwf20",
+   "posicion": "compás 9 (orden 8), pentagrama 1, capa 1, inicio 0, nota, a5",
+   "midi_viejo": 81,
+   "midi_nuevo": 82,
+   "nota": "emparejada por posición, no por altura: la altura cambió de a5 a a#5"
+  },
+  {
+   "id_viejo": "e1speizh",
+   "id_nuevo": "jesu53o",
+   "posicion": "compás 9 (orden 8), pentagrama 1, capa 1, inicio 1/4, nota, e4",
+   "midi_viejo": 64,
+   "midi_nuevo": 63,
+   "nota": "emparejada por posición, no por altura: la altura cambió de e4 a eb4"
+  },
+  {
+   "id_viejo": "gzk9jvk",
+   "id_nuevo": "lglzmz0",
+   "posicion": "compás 9 (orden 8), pentagrama 1, capa 1, inicio 1/2, nota, b5",
+   "midi_viejo": 83,
+   "midi_nuevo": 82,
+   "nota": "emparejada por posición, no por altura: la altura cambió de b5 a bb5"
+  },
+  {
+   "id_viejo": "iz7rlrk",
+   "id_nuevo": "n9fszvu",
+   "posicion": "compás 9 (orden 8), pentagrama 1, capa 1, inicio 3/4, nota, d4",
+   "midi_viejo": 62,
+   "midi_nuevo": 63,
+   "nota": "emparejada por posición, no por altura: la altura cambió de d4 a d#4"
+  },
+  {
+   "id_viejo": "z1jzd0a9",
+   "id_nuevo": "ckjvroq",
+   "posicion": "compás 10 (orden 9), pentagrama 1, capa 1, inicio 1/2, nota, b5",
+   "midi_viejo": 83,
+   "midi_nuevo": 84,
+   "nota": "emparejada por posición, no por altura: la altura cambió de b5 a b#5"
+  },
+  {
+   "id_viejo": "bmsgv20",
+   "id_nuevo": "e1qrii66",
+   "posicion": "compás 10 (orden 9), pentagrama 1, capa 1, inicio 3/4, nota, d4",
+   "midi_viejo": 62,
+   "midi_nuevo": 61,
+   "nota": "emparejada por posición, no por altura: la altura cambió de d4 a db4"
+  },
+  {
+   "id_viejo": "okmc7dp",
+   "id_nuevo": "ryqdr28",
+   "posicion": "compás 11 (orden 10), pentagrama 1, capa 1, inicio 0, nota, c6",
+   "midi_viejo": 84,
+   "midi_nuevo": 83,
+   "nota": "emparejada por posición, no por altura: la altura cambió de c6 a cb6"
+  },
+  {
+   "id_viejo": "q1b1wiza",
+   "id_nuevo": "trm7916",
+   "posicion": "compás 11 (orden 10), pentagrama 1, capa 1, inicio 1/4, nota, c4",
+   "midi_viejo": 60,
+   "midi_nuevo": 61,
+   "nota": "emparejada por posición, no por altura: la altura cambió de c4 a c#4"
+  },
+  {
+   "id_viejo": "h1auen1n",
+   "id_nuevo": "iivtgaa",
+   "posicion": "compás 12 (orden 11), pentagrama 1, capa 1, inicio 0, nota, c6",
+   "midi_viejo": 84,
+   "midi_nuevo": 85,
+   "nota": "emparejada por posición, no por altura: la altura cambió de c6 a c#6"
+  },
+  {
+   "id_viejo": "jog9sc0",
+   "id_nuevo": "kjfyh4t",
+   "posicion": "compás 12 (orden 11), pentagrama 1, capa 1, inicio 1/4, nota, c4",
+   "midi_viejo": 60,
+   "midi_nuevo": 59,
+   "nota": "emparejada por posición, no por altura: la altura cambió de c4 a cb4"
+  },
+  {
+   "id_viejo": "l1q2e7n5",
+   "id_nuevo": "mo3sir5",
+   "posicion": "compás 12 (orden 11), pentagrama 1, capa 1, inicio 1/2, nota, d6",
+   "midi_viejo": 86,
+   "midi_nuevo": 85,
+   "nota": "emparejada por posición, no por altura: la altura cambió de d6 a db6"
+  },
+  {
+   "id_viejo": "n1cnqn22",
+   "id_nuevo": "o5lkvuy",
+   "posicion": "compás 12 (orden 11), pentagrama 1, capa 1, inicio 3/4, nota, b3",
+   "midi_viejo": 59,
+   "midi_nuevo": 60,
+   "nota": "emparejada por posición, no por altura: la altura cambió de b3 a b#3"
+  },
+  {
+   "id_viejo": "aox454l",
+   "id_nuevo": "bwsxy5p",
+   "posicion": "compás 13 (orden 12), pentagrama 1, capa 1, inicio 0, nota, b3",
+   "midi_viejo": 59,
+   "midi_nuevo": 60,
+   "nota": "emparejada por posición, no por altura: la altura cambió de b3 a b#3"
+  },
+  {
+   "id_viejo": "gk1e0nf",
+   "id_nuevo": "f1lr56sk",
+   "posicion": "compás 13 (orden 12), pentagrama 1, capa 1, inicio 3/4, nota, d6",
+   "midi_viejo": 86,
+   "midi_nuevo": 87,
+   "nota": "emparejada por posición, no por altura: la altura cambió de d6 a d#6"
+  },
+  {
+   "id_viejo": "t17cz5cg",
+   "id_nuevo": "s1g2qbgy",
+   "posicion": "compás 14 (orden 13), pentagrama 1, capa 1, inicio 0, nota, b3",
+   "midi_viejo": 59,
+   "midi_nuevo": 58,
+   "nota": "emparejada por posición, no por altura: la altura cambió de b3 a bb3"
+  },
+  {
+   "id_viejo": "viaccze",
+   "id_nuevo": "udc4ne9",
+   "posicion": "compás 14 (orden 13), pentagrama 1, capa 1, inicio 1/4, nota, e6",
+   "midi_viejo": 88,
+   "midi_nuevo": 87,
+   "nota": "emparejada por posición, no por altura: la altura cambió de e6 a eb6"
+  },
+  {
+   "id_viejo": "x1hqhomh",
+   "id_nuevo": "ws1afd9",
+   "posicion": "compás 14 (orden 13), pentagrama 1, capa 1, inicio 1/2, nota, a3",
+   "midi_viejo": 57,
+   "midi_nuevo": 58,
+   "nota": "emparejada por posición, no por altura: la altura cambió de a3 a a#3"
+  },
+  {
+   "id_viejo": "o1l3cg89",
+   "id_nuevo": "li4yqs0",
+   "posicion": "compás 15 (orden 14), pentagrama 1, capa 1, inicio 1/4, nota, e6",
+   "midi_viejo": 88,
+   "midi_nuevo": 89,
+   "nota": "emparejada por posición, no por altura: la altura cambió de e6 a e#6"
+  },
+  {
+   "id_viejo": "q1anarhj",
+   "id_nuevo": "n4i449d",
+   "posicion": "compás 15 (orden 14), pentagrama 1, capa 1, inicio 1/2, nota, a3",
+   "midi_viejo": 57,
+   "midi_nuevo": 56,
+   "nota": "emparejada por posición, no por altura: la altura cambió de a3 a ab3"
+  },
+  {
+   "id_viejo": "s1n6gw3t",
+   "id_nuevo": "p1da5nk1",
+   "posicion": "compás 15 (orden 14), pentagrama 1, capa 1, inicio 3/4, nota, f6",
+   "midi_viejo": 89,
+   "midi_nuevo": 88,
+   "nota": "emparejada por posición, no por altura: la altura cambió de f6 a fb6"
+  },
+  {
+   "id_viejo": "f6nh7lp",
+   "id_nuevo": "c12r9i6c",
+   "posicion": "compás 16 (orden 15), pentagrama 1, capa 1, inicio 0, nota, g3",
+   "midi_viejo": 55,
+   "midi_nuevo": 56,
+   "nota": "emparejada por posición, no por altura: la altura cambió de g3 a g#3"
+  },
+  {
+   "id_viejo": "l1fo6zxt",
+   "id_nuevo": "gvh3qhx",
+   "posicion": "compás 16 (orden 15), pentagrama 1, capa 1, inicio 3/4, nota, f6",
+   "midi_viejo": 89,
+   "midi_nuevo": 90,
+   "nota": "emparejada por posición, no por altura: la altura cambió de f6 a f#6"
+  },
+  {
+   "id_viejo": "ylq5snd",
+   "id_nuevo": "t13u8rks",
+   "posicion": "compás 17 (orden 16), pentagrama 1, capa 1, inicio 0, nota, g3",
+   "midi_viejo": 55,
+   "midi_nuevo": 54,
+   "nota": "emparejada por posición, no por altura: la altura cambió de g3 a gb3"
+  },
+  {
+   "id_viejo": "awdfv5k",
+   "id_nuevo": "v1w312ju",
+   "posicion": "compás 17 (orden 16), pentagrama 1, capa 1, inicio 1/4, nota, g6",
+   "midi_viejo": 91,
+   "midi_nuevo": 90,
+   "nota": "emparejada por posición, no por altura: la altura cambió de g6 a gb6"
+  },
+  {
+   "id_viejo": "c1j18yar",
+   "id_nuevo": "xy7k4qa",
+   "posicion": "compás 17 (orden 16), pentagrama 1, capa 1, inicio 1/2, nota, f3",
+   "midi_viejo": 53,
+   "midi_nuevo": 54,
+   "nota": "emparejada por posición, no por altura: la altura cambió de f3 a f#3"
+  },
+  {
+   "id_viejo": "t1fp4gb9",
+   "id_nuevo": "m1ewx2im",
+   "posicion": "compás 18 (orden 17), pentagrama 1, capa 1, inicio 1/4, nota, g6",
+   "midi_viejo": 91,
+   "midi_nuevo": 92,
+   "nota": "emparejada por posición, no por altura: la altura cambió de g6 a g#6"
+  },
+  {
+   "id_viejo": "vz8ihy6",
+   "id_nuevo": "o1y7scvo",
+   "posicion": "compás 18 (orden 17), pentagrama 1, capa 1, inicio 1/2, nota, f3",
+   "midi_viejo": 53,
+   "midi_nuevo": 52,
+   "nota": "emparejada por posición, no por altura: la altura cambió de f3 a fb3"
+  },
+  {
+   "id_viejo": "x1qa976y",
+   "id_nuevo": "qqa59bv",
+   "posicion": "compás 18 (orden 17), pentagrama 1, capa 1, inicio 3/4, nota, a6",
+   "midi_viejo": 93,
+   "midi_nuevo": 92,
+   "nota": "emparejada por posición, no por altura: la altura cambió de a6 a ab6"
+  },
+  {
+   "id_viejo": "ktkz9g",
+   "id_nuevo": "dmrdccy",
+   "posicion": "compás 19 (orden 18), pentagrama 1, capa 1, inicio 0, nota, e3",
+   "midi_viejo": 52,
+   "midi_nuevo": 53,
+   "nota": "emparejada por posición, no por altura: la altura cambió de e3 a e#3"
+  },
+  {
+   "id_viejo": "q2zhij5",
+   "id_nuevo": "h1taxg90",
+   "posicion": "compás 19 (orden 18), pentagrama 1, capa 1, inicio 3/4, nota, a6",
+   "midi_viejo": 93,
+   "midi_nuevo": 94,
+   "nota": "emparejada por posición, no por altura: la altura cambió de a6 a a#6"
+  },
+  {
+   "id_viejo": "d11t89vm",
+   "id_nuevo": "u1thr30a",
+   "posicion": "compás 20 (orden 19), pentagrama 1, capa 1, inicio 0, nota, e3",
+   "midi_viejo": 52,
+   "midi_nuevo": 51,
+   "nota": "emparejada por posición, no por altura: la altura cambió de e3 a eb3"
+  },
+  {
+   "id_viejo": "f1whowix",
+   "id_nuevo": "w1qqfetq",
+   "posicion": "compás 20 (orden 19), pentagrama 1, capa 1, inicio 1/4, nota, b6",
+   "midi_viejo": 95,
+   "midi_nuevo": 94,
+   "nota": "emparejada por posición, no por altura: la altura cambió de b6 a bb6"
+  },
+  {
+   "id_viejo": "h1g8wgp3",
+   "id_nuevo": "y1xoo8w8",
+   "posicion": "compás 20 (orden 19), pentagrama 1, capa 1, inicio 1/2, nota, d3",
+   "midi_viejo": 50,
+   "midi_nuevo": 51,
+   "nota": "emparejada por posición, no por altura: la altura cambió de d3 a d#3"
+  },
+  {
+   "id_viejo": "y1b3p5t9",
+   "id_nuevo": "n1jy0az7",
+   "posicion": "compás 21 (orden 20), pentagrama 1, capa 1, inicio 1/2, nota, b6",
+   "midi_viejo": 95,
+   "midi_nuevo": 96,
+   "nota": "emparejada por posición, no por altura: la altura cambió de b6 a b#6"
+  },
+  {
+   "id_viejo": "a1aph1c3",
+   "id_nuevo": "p7i63qw",
+   "posicion": "compás 21 (orden 20), pentagrama 1, capa 1, inicio 3/4, nota, d3",
+   "midi_viejo": 50,
+   "midi_nuevo": 49,
+   "nota": "emparejada por posición, no por altura: la altura cambió de d3 a db3"
+  }
+ ],
+ "revisar": [],
+ "huerfanas": [],
+ "ambiguas": [],
+ "ids_del_mapa_que_no_son_notas_del_mei_viejo": [],
+ "notas_nuevas_sin_tiempo": []
+}

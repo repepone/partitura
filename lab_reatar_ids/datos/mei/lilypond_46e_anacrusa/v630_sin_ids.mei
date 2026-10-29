@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m16rzwgm">
+      <fileDesc xml:id="fvun07w">
+         <titleStmt xml:id="tra93fh">
+            <title />
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="pvlocar" />
+      </fileDesc>
+      <encodingDesc xml:id="ervirkj">
+         <appInfo xml:id="a1pu1k0i">
+            <application xml:id="aukvxmw" isodate="2026-10-29T20:26:39" version="6.3.0-425dd7b">
+               <name xml:id="n10x2b4q">Verovio</name>
+               <p xml:id="pctwzhh">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="f19vxbtn">
+            <score xml:id="g2scpaf">
+               <scoreDef xml:id="hmtd9r3">
+                  <staffGrp xml:id="j1uhg2zd">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1" />
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="isf2n9d">
+                  <expansion plist="#x18b1eig" xml:id="y6tna4f" />
+                  <section xml:id="x18b1eig">
+                     <measure xml:id="s1urmjc6" metcon="false" n="0">
+                        <mNum xml:id="b1v35ssg" />
+                        <staff xml:id="cseozsk" n="1">
+                           <layer xml:id="db83ykv" n="1">
+                              <note xml:id="etetn2f" dur.ppq="1" dur="4" oct="5" pname="c" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="f1j4m05x" metcon="false" n="1">
+                        <staff xml:id="o1665zkd" n="1">
+                           <layer xml:id="pi1yi41" n="1">
+                              <note xml:id="qkr9shs" dur.ppq="1" dur="4" oct="5" pname="c" />
+                              <note xml:id="r1wy1bgc" dur.ppq="1" dur="4" oct="4" pname="a" />
+                              <note xml:id="s1rh3t0c" dur.ppq="1" dur="4" oct="4" pname="f" />
+                              <note xml:id="tf9ab9" dur.ppq="1" dur="4" oct="5" pname="c" />
+                           </layer>
+                           <layer xml:id="uiv8sth" n="2">
+                              <space xml:id="wx5qx20" dur.ppq="1" dur="4" />
+                              <note xml:id="v1dmxcxg" dur.ppq="1" dur="4" oct="4" pname="c" />
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

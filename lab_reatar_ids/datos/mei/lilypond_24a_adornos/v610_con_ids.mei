@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="mmu48gs">
+      <fileDesc xml:id="f18luh6a">
+         <titleStmt xml:id="t16xnbkj">
+            <title />
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="p1rj73x2" />
+      </fileDesc>
+      <encodingDesc xml:id="e1fe907j">
+         <appInfo xml:id="a1mkpw5b">
+            <application xml:id="aaqfbtm" isodate="2026-10-29T20:26:39" version="6.1.0-682d606">
+               <name xml:id="n38ojx8">Verovio</name>
+               <p xml:id="p1h1jm4d">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="s14b2ar8">
+            <score xml:id="tnpkxtj">
+               <scoreDef xml:id="u9cxiho">
+                  <staffGrp xml:id="w1hjoumm">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="x11unkrl">MusicXML Part</label>
+                        <clef xml:id="h1p7vw2z" shape="G" line="2" />
+                        <keySig xml:id="ihtqr2p" mode="major" sig="0" />
+                        <meterSig xml:id="jfpjlnz" count="4" sym="common" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="v1r9ayeh">
+                  <expansion plist="#a5gbkfo" xml:id="b5tvpha" />
+                  <section xml:id="a5gbkfo">
+                     <measure xml:id="k1lb8qtz" n="1">
+                        <staff xml:id="t1o9hc21" n="1">
+                           <layer xml:id="uclk55j" n="1">
+                              <note xml:id="gt00000" dur.ppq="0" dur="16" oct="5" pname="d" grace="acc">
+                                 <accid xml:id="w5elvwl" />
+                              </note>
+                              <note xml:id="gt00001" dur.ppq="4" dur="4" oct="5" pname="c">
+                                 <accid xml:id="y1oldfrr" />
+                              </note>
+                              <beam xml:id="z197ac4u">
+                                 <note xml:id="gt00002" dur.ppq="0" dur="16" oct="5" pname="e" grace="acc">
+                                    <accid xml:id="bx8d1h9" />
+                                 </note>
+                                 <note xml:id="gt00003" dur.ppq="0" dur="16" oct="5" pname="d" grace="acc">
+                                    <accid xml:id="d1vlsaox" />
+                                 </note>
+                              </beam>
+                              <note xml:id="gt00004" dur.ppq="4" dur="4" oct="5" pname="c">
+                                 <accid xml:id="f1e77oer" />
+                              </note>
+                              <note xml:id="gt00005" dur.ppq="0" dur="16" oct="5" pname="d" grace="acc">
+                                 <accid xml:id="h150roin" />
+                              </note>
+                              <note xml:id="gt00006" dur.ppq="4" dur="4" oct="5" pname="c">
+                                 <accid xml:id="k1hwdlx8" />
+                              </note>
+                              <note xml:id="gt00007" dur.ppq="0" dur="8" oct="5" pname="d" grace="acc">
+                                 <accid xml:id="m1m82i2f" />
+                              </note>
+                              <note xml:id="gt00008" dur.ppq="4" dur="4" oct="5" pname="c">
+                                 <accid xml:id="o1ljku3z" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <tie xml:id="i19qzxqt" startid="#gt00005" />
+                     </measure>
+                     <measure xml:id="p1nyhogy" n="2">
+                        <staff xml:id="yvxxlc6" n="1">
+                           <layer xml:id="z1unwjjp" n="1">
+                              <note xml:id="gt00009" dur.ppq="0" dur="16" oct="5" pname="d" grace="unacc" stem.mod="1slash">
+                                 <accid xml:id="bj47ihn" />
+                              </note>
+                              <note xml:id="gt00010" dur.ppq="4" dur="4" oct="5" pname="c">
+                                 <accid xml:id="dhx3np" />
+                              </note>
+                              <beam xml:id="e17mvt0d">
+                                 <note xml:id="gt00011" dur.ppq="0" dur="16" oct="5" pname="e" grace="acc">
+                                    <accid xml:id="gnc2vd1" />
+                                 </note>
+                                 <note xml:id="gt00012" dur.ppq="0" dur="16" oct="5" pname="d" grace="acc">
+                                    <accid xml:id="isynqh4" />
+                                 </note>
+                              </beam>
+                              <note xml:id="gt00013" dur.ppq="8" dur="2" oct="5" pname="c">
+                                 <accid xml:id="kpnjxq8" />
+                              </note>
+                              <note xml:id="gt00014" dur.ppq="0" dur="16" oct="5" pname="d" grace="unacc" stem.mod="1slash">
+                                 <accid xml:id="m1ul4fjj" />
+                              </note>
+                              <beam xml:id="n82rp5c">
+                                 <note xml:id="gt00015" dur.ppq="2" dur="8" oct="5" pname="c">
+                                    <accid xml:id="p6y7aj9" />
+                                 </note>
+                                 <note xml:id="gt00016" dur.ppq="0" dur="16" oct="5" pname="d" grace="unacc" stem.mod="1slash">
+                                    <accid xml:id="r1mms8sa" />
+                                 </note>
+                                 <note xml:id="gt00017" dur.ppq="2" dur="8" oct="5" pname="c">
+                                    <accid xml:id="t1gaf6xg" />
+                                 </note>
+                              </beam>
+                              <note xml:id="gt00018" dur.ppq="0" dur="16" oct="5" pname="e" grace="acc">
+                                 <accid xml:id="vrzt470" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="wkd9ezd" right="end" n="3">
+                        <staff xml:id="fl3dl6l" n="1">
+                           <layer xml:id="g10fkpop" n="1">
+                              <note xml:id="gt00019" dur.ppq="0" dur="16" oct="5" pname="e" grace="acc">
+                                 <accid xml:id="ifj5rqk" />
+                              </note>
+                              <chord xml:id="l1308tei" dur.ppq="4" dur="4">
+                                 <note xml:id="gt00020" oct="4" pname="f">
+                                    <accid xml:id="k1jzn7w7" />
+                                 </note>
+                                 <note xml:id="gt00021" oct="5" pname="c">
+                                    <accid xml:id="n16jqmko" />
+                                 </note>
+                              </chord>
+                              <note xml:id="gt00022" dur.ppq="0" dur="4" oct="5" pname="d" grace="acc">
+                                 <accid xml:id="p1ayq58a" accid="s" accid.ges="s" />
+                              </note>
+                              <note xml:id="gt00023" dur.ppq="4" dur="4" oct="5" pname="c">
+                                 <accid xml:id="rulzxuc" />
+                              </note>
+                              <note xml:id="gt00024" dur.ppq="0" dur="4" oct="5" pname="d" grace="acc">
+                                 <accid xml:id="tvah0va" accid="f" accid.ges="f" />
+                              </note>
+                              <note xml:id="gt00025" dur.ppq="0" dur="4" oct="4" pname="a" grace="acc">
+                                 <accid xml:id="v1m86faf" accid="f" accid.ges="f" />
+                              </note>
+                              <note xml:id="gt00026" dur.ppq="4" dur="4" oct="5" pname="c">
+                                 <accid xml:id="x1mldshr" />
+                              </note>
+                              <note xml:id="gt00027" dur.ppq="4" dur="4" oct="5" pname="c">
+                                 <accid xml:id="z143j3uw" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
